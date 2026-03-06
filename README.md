@@ -16,7 +16,7 @@ generated_at: "2026-03-06"
 
 This project is a simple Java demonstration of how to connect to a MySQL database using JDBC and how to apply the **DAO (Data Access Object)** pattern to perform CRUD operations.
 
-The demo is intentionally small and beginner-friendly. It shows how to:
+It shows how to:
 
 - define a simple domain class
 - connect Java to a MySQL database
