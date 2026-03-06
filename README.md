@@ -129,22 +129,7 @@ A small console demo that shows the four CRUD operations through separate method
 
 ## Step 1: Start MySQL / phpMyAdmin
 
-Make sure your local MySQL server is running.
-
-Typical setups include:
-
-- XAMPP
-- WAMP
-- MAMP
-- standalone MySQL Server
-
-Then open **phpMyAdmin** in your browser.
-
-For many local installs this is something like:
-
-```text
-http://localhost/phpmyadmin
-```
+Make sure XAMPP (Apache and PHPMyAdmin server) is running.
 
 ## Step 2: Run the SQL Script
 
